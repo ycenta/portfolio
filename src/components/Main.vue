@@ -79,7 +79,7 @@ onMounted(() => {
             <h4 class="bentoTitle">Experience</h4>
             <p>
               <ul>
-                <li>lorem ipsum dolor sit amet, consectetur adipiscing elit.</li>
+                <li>2ans</li>
                 <li>lorem ipsum dolor sit amet, consectetur adipiscing elit.</li>
               </ul>
             </p>
