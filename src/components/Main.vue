@@ -12,7 +12,7 @@ onMounted(() => {
   if (canvas) {
     new Rive({
       canvas,
-      src: '/public/rive/anime.riv',
+      src: '/rive/anime.riv',
       autoplay: true,
       stateMachines: "State Machine 1"
     })
