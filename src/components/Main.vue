@@ -35,6 +35,11 @@ onMounted(() => {
       <section class="bentoSection">
         <h3 class="sectionTitle">Yohan Centa</h3>
 
+        <div class="cta_container">
+          <a href="/files/cv.pdf" download="cv.pdf" class="cta_button">Télecharger mon cv</a>
+          </div>
+          <br><br>
+
         <div class="bento">
           <div class="bentoContainer div1">
             <h4 class="bentoTitle">Me</h4>
@@ -85,7 +90,10 @@ onMounted(() => {
             </p>
             <img src="/img/avatar.jpg" height="100px" alt="bento" class="bentoImg">
           </div>
+
+         
         </div>
+        
       </section>
 
 
@@ -93,7 +101,8 @@ onMounted(() => {
         <router-link to="/work" class="cta_button">Mon travail</router-link>
     </div>
 
-      <h1 class="pageTitle cta_button">CONTACTEZ MOI </h1>
+      <h1 class="pageTitle"><a href="https://www.linkedin.com/in/yohancentanni/" target="_blank" class="cta_button">Contactez moi</a></h1>
+      
 
     </div>
   </div>
