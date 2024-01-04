@@ -74,12 +74,12 @@ onMounted(() => {
           <div class="bentoContainer div3">
             <h4 class="bentoTitle">Créatif</h4>
             <div class="iconContainer">
-              <img src="/img/icons/ps.png " height="70px" alt="bento">
-              <img src="/img/icons/premierepro.png " height="70px" alt="bento">
-              <img src="/img/icons/ae.png " height="70px" alt="bento">
-              <img src="/img/icons/blender.png " height="70px" alt="bento">
-              <img src="/img/icons/unity.png " height="70px" alt="bento">
-              <img src="/img/icons/figma.webp " height="70px" alt="bento">
+              <img src="/img/icons/ps.png " height="70px" width="70px" alt="bento">
+              <img src="/img/icons/premierepro.png " height="70px" width="70px"  alt="bento">
+              <img src="/img/icons/ae.png " height="70px"  width="70px" alt="bento">
+              <img src="/img/icons/blender.png " height="70px" width="70px"  alt="bento">
+              <img src="/img/icons/unity.png " height="70px" width="70px"  alt="bento">
+              <img src="/img/icons/figma.webp " height="70px"  width="70px" alt="bento">
            
              
             </div>
