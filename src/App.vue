@@ -268,14 +268,15 @@ onBeforeUnmount(() => {
   right: -20px;
   width: 220px;
   height: 220px;
-  pointer-events: none;
-  opacity: 0.85;
+  opacity: 0.9;
   filter: grayscale(0.15) contrast(1.05);
   animation: float 8s ease-in-out infinite;
+  z-index: 5;
 }
 .rive canvas {
   width: 100%;
   height: 100%;
+  cursor: crosshair;
 }
 @keyframes float {
   0%, 100% { transform: translateY(0); }
