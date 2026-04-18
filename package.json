@@ -1,7 +1,7 @@
 {
-  "name": "front",
+  "name": "ycenta-portfolio",
   "private": true,
-  "version": "0.0.0",
+  "version": "1.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -10,8 +10,7 @@
   },
   "dependencies": {
     "@rive-app/canvas": "^2.9.0",
-    "vue": "^3.3.8",
-    "vue-router": "^4.2.5"
+    "vue": "^3.3.8"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^4.5.0",
